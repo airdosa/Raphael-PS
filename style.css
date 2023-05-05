@@ -1,9 +1,9 @@
-Body {
+body {
     background-color: gold;
     color: whitesmoke;
     padding: 30px;
 }
-ul {
+ol {
     border: 1px solid black;
     padding: 20px;
 }
