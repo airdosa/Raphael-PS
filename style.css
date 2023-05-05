@@ -1,8 +1,11 @@
 #title {
     color:beige;
 }
+#title {
+    color:brown
+}
 .class {
-    color:blue;
+    color:rgb(137, 137, 247);
 }
 
 h2 {
