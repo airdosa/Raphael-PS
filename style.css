@@ -1,13 +1,9 @@
-#title {
-    color:beige;
+Body {
+    background-color: gold;
+    color: whitesmoke;
+    padding: 30px;
 }
-#title {
-    color:brown
-}
-.class {
-    color:rgb(137, 137, 247);
-}
-
-h2 {
-    color: gray;
+ul {
+    border: 1px solid black;
+    padding: 20px;
 }
