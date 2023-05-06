@@ -1,9 +1,15 @@
 body {
-    background-color: gold;
+    background-color: grey;
     color: whitesmoke;
     padding: 30px;
 }
 ol {
     border: 1px solid black;
     padding: 20px;
+}
+#title {
+    color:black;
+}
+.class {
+    color:blue;
 }
